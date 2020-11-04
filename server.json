@@ -1,3 +1,11 @@
 {
-  "foods": []
+  "foods": [
+    {
+      "id": 1,
+      "image": "https://s2.glbimg.com/HGlSDx3T6NnLymliUW0pyC2BsKQ=/620x455/e.glbimg.com/og/ed/f/original/2020/01/17/gettyimages-182175899.jpg",
+      "name": "asdasdas",
+      "price": "123",
+      "description": "beterraba deliciosa"
+    }
+  ]
 }
